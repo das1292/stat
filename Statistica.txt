@@ -1,0 +1,67 @@
+LISTA 2
+Zad 1
+Statystyka-->analiza mocy testu--->rozklady prawdopodobienstwa--->rozklad dwumianowy
+
+c) jeśli mam dokładnie, to musze odjąć co najwyzej x i co najwyżej x-1
+
+
+ZAD 3,4,5 ROZKLAD NORMALNY
+
+JESLI WIEKSZE NIZ X to 1-p zaznaczyc,a jesli mniejsze niz x to nie zaznaczac 1-p
+
+
+LISTA 3 
+ZAD 1 - statystyki podstawowe->tabele liczności
+krok = sqrt(n)
+
+ZAD 2 
+
+
+Statystyki podstawowe->statystyki opisowe->wiecej i przedział ufn. dla średniej   bo w poleceniu mam "średnia"
+
+ZAD 3 
+
+SŁOWO " ZRÓŻNICOWANIE" - wariancja/ odchylenie standardowe
+
+Jeśli mam zbudować przedział ufności : statystyki podstawowe->statystyki opisowe->wiecej i tam zaznaczam przedział ufności dla odchylenia standardowego
+
+
+
+LISTA 4
+ZAD1
+Jesli trzeba sprawdzic czy cos ma rozklad normalny
+Wykresy 2W-->wykresy normalnosci---> zaznaczyc test shapiro wilka
+Jesli p>alfa, to nie ma podstaw do odrzucenia hipotezy zerowej
+
+Zad2
+1.Sprawdzam czy ma rozklad normalny shapiro wilkiem z zadania 1 
+2 Jesli tak, to stawiam H0 = 4godziny , H1>4godziny
+3.robie test t-studenta (statystyka podstawowa->test t dla pojedynczej próby->i wpisuje do okienka "testuj wzgledem = 4", biorę p/2 i jesli p/2 jest wieksze od alfa,
+to nie ma podstaaw do odrzucenia H0
+
+
+ZAD3  
+1. sprawdzam czy ma rozklad normalny shapiro wilkiem dla chlopcow i dla dziewczynek, jesli tak to robie test t dla prób niezaleznych wzgl.zmiennej(test brownaa-forsytha i test levena)
+2. jesli wszystkie p są wieksze od alfy, to wariancje sa jednorodne i robimy test t dla prób niezaleznych ale bez zaznaczania testu browna-forsytha i testu lavene'a)
+3. jesli p >alfa to nie ma podstaw do odrzuceniaa hipotezy zerowej
+Czyli czas snu obu grup jest jednakowy
+
+ZAD4.
+
+1.statystyka podstawowa ->inne testy istotnosci-> roznica miedzy dwiema średnimi(rozkład normalny)
+2.zaznaczam średnią z pomiarów 1 a średnią z populacji 2 i test jednostronny
+3.jeśli p wychodzi wieksze od alfa to nie ma podstaw do odrzucenia hiptoezy zerowej
+
+ZAD5.
+
+TO SAMO CO W ZAD 5 
+
+p<alfa to odrzucamy hipoteze zerowa i bierzemy h1
+
+
+ZAD6
+1.statystyki podstawowe i tabele->macierze korelacji->dwie listy zmiennych, wybieram po jednej
+2.wiecej->2Wrozrzutu
+3.opcje->wyswietl dokladna tabele wyników
+4. pisac w sprawozdaniu wspolczynnik determinacji ->r^2  , co oznacza ze srednia ocen na IV roku jest w 69% wyjasniona srednią ocen na I roku
+5. Zaleznosc sredniej ocen na I roku mozna opisac wzorem : y=0,62x+1,6174
